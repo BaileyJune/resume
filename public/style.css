@@ -1,0 +1,13 @@
+.jumbotron {
+	background-color: #3d1452 !important;
+}
+
+.contact {
+	float: right; 
+	color: #ffffff;
+}
+
+.name {
+	float: left;
+	color: #ffffff;
+}
